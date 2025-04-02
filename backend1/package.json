@@ -1,0 +1,29 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "v1 of backend",
+  "keywords": [
+    "chess.com",
+    "chess",
+    "multiplayer",
+    "chess",
+    "game",
+    "robust",
+    "backend",
+    "for",
+    "chess"
+  ],
+  "license": "ISC",
+  "author": "Jayesh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chess.js": "^1.1.0",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "ws": "^8.18.1"
+  }
+}
